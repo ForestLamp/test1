@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE4303B225BDD95700CFC4B2 /* ItemInfoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE4303B125BDD95700CFC4B2 /* ItemInfoCell.swift */; };
 		CE6D32EB25BB4A6B00584F75 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6D32EA25BB4A6B00584F75 /* AppDelegate.swift */; };
 		CE6D32ED25BB4A6B00584F75 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6D32EC25BB4A6B00584F75 /* SceneDelegate.swift */; };
 		CE6D32EF25BB4A6B00584F75 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE6D32EE25BB4A6B00584F75 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE4303B125BDD95700CFC4B2 /* ItemInfoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemInfoCell.swift; sourceTree = "<group>"; };
 		CE6D32E725BB4A6B00584F75 /* test1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE6D32EA25BB4A6B00584F75 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CE6D32EC25BB4A6B00584F75 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				CE6D32EA25BB4A6B00584F75 /* AppDelegate.swift */,
 				CE6D32EC25BB4A6B00584F75 /* SceneDelegate.swift */,
 				CE6D32EE25BB4A6B00584F75 /* ViewController.swift */,
+				CE4303B125BDD95700CFC4B2 /* ItemInfoCell.swift */,
 				CE6D32F025BB4A6B00584F75 /* Main.storyboard */,
 				CE6D32F325BB4A6D00584F75 /* Assets.xcassets */,
 				CE6D32F525BB4A6D00584F75 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CE6D32EF25BB4A6B00584F75 /* ViewController.swift in Sources */,
+				CE4303B225BDD95700CFC4B2 /* ItemInfoCell.swift in Sources */,
 				CE6D32EB25BB4A6B00584F75 /* AppDelegate.swift in Sources */,
 				CE6D32ED25BB4A6B00584F75 /* SceneDelegate.swift in Sources */,
 			);
